@@ -1,4 +1,4 @@
-# coding: utf-8
+# encoding: utf-8
 
 # Объявили переменную answers и записали в неё массив строк
 answers = [
